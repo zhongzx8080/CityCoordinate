@@ -14,7 +14,7 @@
 |    `code`    |       长途区号       |
 |  `zip_code`  |       邮政编码       |
 |   `first`    |      名称首字母       |
-| `longtitude` |        经度        |
+| `longitude` |        经度        |
 |  `latitude`  |        纬度        |
 
 ## 文件
