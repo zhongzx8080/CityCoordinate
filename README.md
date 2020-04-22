@@ -1,3 +1,5 @@
+详情参考->https://github.com/kakuilan/china_area_mysql
+
 全国城市坐标经纬度
 
 ## 字段说明
